@@ -1,0 +1,1 @@
+This project containing my work on a data visualization project. Leveraging the powerful capabilities of NumPy, Pandas, and Matplotlib, I utilized diverse datasets to create insightful visualizations. This collection showcases my proficiency in handling and presenting complex data through effective use of these essential Python libraries
